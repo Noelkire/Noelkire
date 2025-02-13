@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Noelkire
-- 👀 I’m interested in 3D,AR,iOS/macOS development
-- 🌱 I’m currently learning modeling in Blender and ARKit+RealityKit
-- 📫 How to reach me noelkire.com
+- 👀 I'm interested in iOS/macOS development; I like to make tools for myself
+- 🌱 I’m currently learning how to integrate ML into apps and systems
 
 <!---
 Noelkire/Noelkire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
